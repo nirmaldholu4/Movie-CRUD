@@ -164,19 +164,19 @@ http://localhost:3000
 Here are the screenshots of the Movie Management System API tested using Postman.
 
 ### 1. Add Movie API
-![Add Movie](screenshots/add-movie.png)
+![Add Movie](Screenshots/add.png)
 
 ### 2. Display All Movies API
-![Display Movies](screenshots/get-all-movies.png)
+![Display Movies](Screenshots/all.png)
 
 ### 3. Search Specific Movie API
-![Search Movie](screenshots/get-movie.png)
+![Search Movie](Screenshots/one.png)
 
 ### 4. Update Movie API
-![Update Movie](screenshots/update-movie.png)
+![Update Movie](Screenshots/update.png)
 
 ### 5. Delete Movie API
-![Delete Movie](screenshots/delete-movie.png)
+![Delete Movie](Screenshots/delete.png)
 
 ---
 
