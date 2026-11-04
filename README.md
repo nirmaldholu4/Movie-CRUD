@@ -184,8 +184,6 @@ Here are the screenshots of the Movie Management System API tested using Postman
 
 Watch the complete project explanation video to understand how the Movie Management System works, how APIs are created, and how MongoDB handles movie records.
 
-[![Movie Management System – Project Explanation](screenshots/video-thumbnail.png)](YOUR_VIDEO_LINK_HERE)
-
 **▶ Watch Project Explanation Video:** [Click Here](YOUR_VIDEO_LINK_HERE)
 
 ---
