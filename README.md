@@ -184,7 +184,7 @@ Here are the screenshots of the Movie Management System API tested using Postman
 
 Watch the complete project explanation video to understand how the Movie Management System works, how APIs are created, and how MongoDB handles movie records.
 
-**▶ Watch Project Explanation Video:** [Click Here](YOUR_VIDEO_LINK_HERE)
+**▶ Watch Project Explanation Video:** [Click Here](https://drive.google.com/file/d/1PrBTpKnKOGKey01TYbSXMm7dT3oQanOx/view?usp=drivesdk)
 
 ---
 
@@ -199,15 +199,6 @@ Through this project, I learned:
 - How to send and receive JSON data.
 - How to test API endpoints using Postman.
 - How client-server communication works.
-
----
-
-## 👨‍💻 Developer
-
-**Nirmal Dholu**
-
-- GitHub: [My GitHub](https://github.com/nirmaldholu4)
-- Portfolio: [My Portfolio](https://nirmaldholu4-my-portfolio.vercel.app/)
 
 ---
 
